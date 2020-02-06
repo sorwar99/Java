@@ -9,6 +9,7 @@ public class Hola {
 
     public static void main(String[] args) {
         aaa();
+        System.out.println("aaaaaaaaaaaaaaaaa");
     }
 
     public static void aaa() {
